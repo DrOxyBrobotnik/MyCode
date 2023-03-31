@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bob's giveaways/1.0.0": {
+        "runtime": {
+          "Bob's giveaways.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bob's giveaways/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\Kitty calculator\bin\Debug\net6.0\Kitty calculator.exe
+C:\Users\redigering\source\repos\Kitty calculator\bin\Debug\net6.0\Kitty calculator.deps.json
+C:\Users\redigering\source\repos\Kitty calculator\bin\Debug\net6.0\Kitty calculator.runtimeconfig.json
+C:\Users\redigering\source\repos\Kitty calculator\bin\Debug\net6.0\Kitty calculator.dll
+C:\Users\redigering\source\repos\Kitty calculator\bin\Debug\net6.0\Kitty calculator.pdb
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.AssemblyInfo.cs
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.dll
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\refint\Kitty calculator.dll
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.pdb
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\Kitty calculator.genruntimeconfig.cache
+C:\Users\redigering\source\repos\Kitty calculator\obj\Debug\net6.0\ref\Kitty calculator.dll

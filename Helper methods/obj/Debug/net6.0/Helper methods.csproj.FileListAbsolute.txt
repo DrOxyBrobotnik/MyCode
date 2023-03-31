@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\Helper methods\bin\Debug\net6.0\Helper methods.exe
+C:\Users\Raxxy\source\repos\Helper methods\bin\Debug\net6.0\Helper methods.deps.json
+C:\Users\Raxxy\source\repos\Helper methods\bin\Debug\net6.0\Helper methods.runtimeconfig.json
+C:\Users\Raxxy\source\repos\Helper methods\bin\Debug\net6.0\Helper methods.dll
+C:\Users\Raxxy\source\repos\Helper methods\bin\Debug\net6.0\Helper methods.pdb
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.dll
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\refint\Helper methods.dll
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.pdb
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\Helper methods.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\Helper methods\obj\Debug\net6.0\ref\Helper methods.dll

@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\bunny labor list\bin\Debug\net6.0\bunny labor list.exe
+C:\Users\redigering\source\repos\bunny labor list\bin\Debug\net6.0\bunny labor list.deps.json
+C:\Users\redigering\source\repos\bunny labor list\bin\Debug\net6.0\bunny labor list.runtimeconfig.json
+C:\Users\redigering\source\repos\bunny labor list\bin\Debug\net6.0\bunny labor list.dll
+C:\Users\redigering\source\repos\bunny labor list\bin\Debug\net6.0\bunny labor list.pdb
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.AssemblyInfo.cs
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.dll
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\refint\bunny labor list.dll
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.pdb
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\bunny labor list.genruntimeconfig.cache
+C:\Users\redigering\source\repos\bunny labor list\obj\Debug\net6.0\ref\bunny labor list.dll

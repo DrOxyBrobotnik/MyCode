@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\operators expressions and statements\bin\Debug\net6.0\operators expressions and statements.exe
+C:\Users\redigering\source\repos\operators expressions and statements\bin\Debug\net6.0\operators expressions and statements.deps.json
+C:\Users\redigering\source\repos\operators expressions and statements\bin\Debug\net6.0\operators expressions and statements.runtimeconfig.json
+C:\Users\redigering\source\repos\operators expressions and statements\bin\Debug\net6.0\operators expressions and statements.dll
+C:\Users\redigering\source\repos\operators expressions and statements\bin\Debug\net6.0\operators expressions and statements.pdb
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.AssemblyInfo.cs
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.dll
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\refint\operators expressions and statements.dll
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.pdb
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\operators expressions and statements.genruntimeconfig.cache
+C:\Users\redigering\source\repos\operators expressions and statements\obj\Debug\net6.0\ref\operators expressions and statements.dll

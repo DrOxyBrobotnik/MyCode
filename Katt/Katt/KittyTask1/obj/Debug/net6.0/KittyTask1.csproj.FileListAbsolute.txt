@@ -1,0 +1,12 @@
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.csproj.AssemblyReference.cache
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.AssemblyInfoInputs.cache
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.AssemblyInfo.cs
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.csproj.CoreCompileInputs.cache
+C:\Users\Weeb\Code\Katt\KittyTask1\bin\Debug\net6.0\KittyTask1.deps.json
+C:\Users\Weeb\Code\Katt\KittyTask1\bin\Debug\net6.0\KittyTask1.dll
+C:\Users\Weeb\Code\Katt\KittyTask1\bin\Debug\net6.0\KittyTask1.pdb
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.dll
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\refint\KittyTask1.dll
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\KittyTask1.pdb
+C:\Users\Weeb\Code\Katt\KittyTask1\obj\Debug\net6.0\ref\KittyTask1.dll

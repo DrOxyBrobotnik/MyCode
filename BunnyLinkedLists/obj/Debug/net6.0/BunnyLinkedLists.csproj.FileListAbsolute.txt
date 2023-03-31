@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\BunnyLinkedLists\bin\Debug\net6.0\BunnyLinkedLists.exe
+C:\Users\redigering\source\repos\BunnyLinkedLists\bin\Debug\net6.0\BunnyLinkedLists.deps.json
+C:\Users\redigering\source\repos\BunnyLinkedLists\bin\Debug\net6.0\BunnyLinkedLists.runtimeconfig.json
+C:\Users\redigering\source\repos\BunnyLinkedLists\bin\Debug\net6.0\BunnyLinkedLists.dll
+C:\Users\redigering\source\repos\BunnyLinkedLists\bin\Debug\net6.0\BunnyLinkedLists.pdb
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.AssemblyInfo.cs
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.dll
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\refint\BunnyLinkedLists.dll
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.pdb
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\BunnyLinkedLists.genruntimeconfig.cache
+C:\Users\redigering\source\repos\BunnyLinkedLists\obj\Debug\net6.0\ref\BunnyLinkedLists.dll

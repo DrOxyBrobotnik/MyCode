@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\concatenation arrays\bin\Debug\net6.0\concatenation arrays.exe
+C:\Users\redigering\source\repos\concatenation arrays\bin\Debug\net6.0\concatenation arrays.deps.json
+C:\Users\redigering\source\repos\concatenation arrays\bin\Debug\net6.0\concatenation arrays.runtimeconfig.json
+C:\Users\redigering\source\repos\concatenation arrays\bin\Debug\net6.0\concatenation arrays.dll
+C:\Users\redigering\source\repos\concatenation arrays\bin\Debug\net6.0\concatenation arrays.pdb
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.AssemblyInfo.cs
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.dll
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\refint\concatenation arrays.dll
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.pdb
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\concatenation arrays.genruntimeconfig.cache
+C:\Users\redigering\source\repos\concatenation arrays\obj\Debug\net6.0\ref\concatenation arrays.dll

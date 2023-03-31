@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chain inheritance", "chain inheritance.csproj", "{FC97F4F9-FDEE-4A35-8BCE-8C279E93C054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC97F4F9-FDEE-4A35-8BCE-8C279E93C054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC97F4F9-FDEE-4A35-8BCE-8C279E93C054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC97F4F9-FDEE-4A35-8BCE-8C279E93C054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC97F4F9-FDEE-4A35-8BCE-8C279E93C054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A60D60EB-D38D-45E6-B638-858A756F5406}
+	EndGlobalSection
+EndGlobal

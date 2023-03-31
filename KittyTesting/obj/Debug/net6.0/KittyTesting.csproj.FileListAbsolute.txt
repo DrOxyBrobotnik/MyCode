@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\KittyTesting\bin\Debug\net6.0\KittyTesting.exe
+C:\Users\redigering\source\repos\KittyTesting\bin\Debug\net6.0\KittyTesting.deps.json
+C:\Users\redigering\source\repos\KittyTesting\bin\Debug\net6.0\KittyTesting.runtimeconfig.json
+C:\Users\redigering\source\repos\KittyTesting\bin\Debug\net6.0\KittyTesting.dll
+C:\Users\redigering\source\repos\KittyTesting\bin\Debug\net6.0\KittyTesting.pdb
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.AssemblyInfo.cs
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.dll
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\refint\KittyTesting.dll
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.pdb
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\KittyTesting.genruntimeconfig.cache
+C:\Users\redigering\source\repos\KittyTesting\obj\Debug\net6.0\ref\KittyTesting.dll

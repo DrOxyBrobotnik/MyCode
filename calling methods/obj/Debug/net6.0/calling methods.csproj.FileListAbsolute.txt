@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\Calling methods\bin\Debug\net6.0\Calling methods.exe
+C:\Users\Raxxy\source\repos\Calling methods\bin\Debug\net6.0\Calling methods.deps.json
+C:\Users\Raxxy\source\repos\Calling methods\bin\Debug\net6.0\Calling methods.runtimeconfig.json
+C:\Users\Raxxy\source\repos\Calling methods\bin\Debug\net6.0\Calling methods.dll
+C:\Users\Raxxy\source\repos\Calling methods\bin\Debug\net6.0\Calling methods.pdb
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.dll
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\refint\Calling methods.dll
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.pdb
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\Calling methods.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\Calling methods\obj\Debug\net6.0\ref\Calling methods.dll

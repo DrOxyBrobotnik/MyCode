@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\methodz\bin\Debug\net6.0\methodz.exe
+C:\Users\redigering\source\repos\methodz\bin\Debug\net6.0\methodz.deps.json
+C:\Users\redigering\source\repos\methodz\bin\Debug\net6.0\methodz.runtimeconfig.json
+C:\Users\redigering\source\repos\methodz\bin\Debug\net6.0\methodz.dll
+C:\Users\redigering\source\repos\methodz\bin\Debug\net6.0\methodz.pdb
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.AssemblyInfo.cs
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.dll
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\refint\methodz.dll
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.pdb
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\methodz.genruntimeconfig.cache
+C:\Users\redigering\source\repos\methodz\obj\Debug\net6.0\ref\methodz.dll

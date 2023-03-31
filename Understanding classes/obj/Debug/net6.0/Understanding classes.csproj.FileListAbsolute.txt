@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\Understanding classes\bin\Debug\net6.0\Understanding classes.exe
+C:\Users\redigering\source\repos\Understanding classes\bin\Debug\net6.0\Understanding classes.deps.json
+C:\Users\redigering\source\repos\Understanding classes\bin\Debug\net6.0\Understanding classes.runtimeconfig.json
+C:\Users\redigering\source\repos\Understanding classes\bin\Debug\net6.0\Understanding classes.dll
+C:\Users\redigering\source\repos\Understanding classes\bin\Debug\net6.0\Understanding classes.pdb
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.AssemblyInfo.cs
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.dll
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\refint\Understanding classes.dll
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.pdb
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\Understanding classes.genruntimeconfig.cache
+C:\Users\redigering\source\repos\Understanding classes\obj\Debug\net6.0\ref\Understanding classes.dll

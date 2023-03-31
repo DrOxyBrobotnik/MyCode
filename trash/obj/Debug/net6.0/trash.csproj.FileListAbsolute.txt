@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\trash\bin\Debug\net6.0\trash.exe
+C:\Users\redigering\source\repos\trash\bin\Debug\net6.0\trash.deps.json
+C:\Users\redigering\source\repos\trash\bin\Debug\net6.0\trash.runtimeconfig.json
+C:\Users\redigering\source\repos\trash\bin\Debug\net6.0\trash.dll
+C:\Users\redigering\source\repos\trash\bin\Debug\net6.0\trash.pdb
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.AssemblyInfo.cs
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.dll
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\refint\trash.dll
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.pdb
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\trash.genruntimeconfig.cache
+C:\Users\redigering\source\repos\trash\obj\Debug\net6.0\ref\trash.dll

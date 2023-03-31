@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.exe
+C:\Users\redigering\source\repos\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.deps.json
+C:\Users\redigering\source\repos\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.runtimeconfig.json
+C:\Users\redigering\source\repos\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.dll
+C:\Users\redigering\source\repos\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.pdb
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.AssemblyInfo.cs
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.dll
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\refint\UnderstandingScope.dll
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.pdb
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.genruntimeconfig.cache
+C:\Users\redigering\source\repos\UnderstandingScope\obj\Debug\net6.0\ref\UnderstandingScope.dll

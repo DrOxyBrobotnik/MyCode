@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\bunny ass assignment\bin\Debug\net6.0\bunny ass assignment.exe
+C:\Users\Raxxy\source\repos\bunny ass assignment\bin\Debug\net6.0\bunny ass assignment.deps.json
+C:\Users\Raxxy\source\repos\bunny ass assignment\bin\Debug\net6.0\bunny ass assignment.runtimeconfig.json
+C:\Users\Raxxy\source\repos\bunny ass assignment\bin\Debug\net6.0\bunny ass assignment.dll
+C:\Users\Raxxy\source\repos\bunny ass assignment\bin\Debug\net6.0\bunny ass assignment.pdb
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.dll
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\refint\bunny ass assignment.dll
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.pdb
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\bunny ass assignment.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\bunny ass assignment\obj\Debug\net6.0\ref\bunny ass assignment.dll

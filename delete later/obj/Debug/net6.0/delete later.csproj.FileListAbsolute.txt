@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\delete later\bin\Debug\net6.0\delete later.exe
+C:\Users\Raxxy\source\repos\delete later\bin\Debug\net6.0\delete later.deps.json
+C:\Users\Raxxy\source\repos\delete later\bin\Debug\net6.0\delete later.runtimeconfig.json
+C:\Users\Raxxy\source\repos\delete later\bin\Debug\net6.0\delete later.dll
+C:\Users\Raxxy\source\repos\delete later\bin\Debug\net6.0\delete later.pdb
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.dll
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\refint\delete later.dll
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.pdb
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\delete later.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\delete later\obj\Debug\net6.0\ref\delete later.dll

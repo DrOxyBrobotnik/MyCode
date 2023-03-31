@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\Bunny pyramid\bin\Debug\net6.0\Bunny pyramid.exe
+C:\Users\redigering\source\repos\Bunny pyramid\bin\Debug\net6.0\Bunny pyramid.deps.json
+C:\Users\redigering\source\repos\Bunny pyramid\bin\Debug\net6.0\Bunny pyramid.runtimeconfig.json
+C:\Users\redigering\source\repos\Bunny pyramid\bin\Debug\net6.0\Bunny pyramid.dll
+C:\Users\redigering\source\repos\Bunny pyramid\bin\Debug\net6.0\Bunny pyramid.pdb
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.AssemblyInfo.cs
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.dll
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\refint\Bunny pyramid.dll
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.pdb
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\Bunny pyramid.genruntimeconfig.cache
+C:\Users\redigering\source\repos\Bunny pyramid\obj\Debug\net6.0\ref\Bunny pyramid.dll

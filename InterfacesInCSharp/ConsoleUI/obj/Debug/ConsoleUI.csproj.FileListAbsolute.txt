@@ -1,0 +1,11 @@
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\redigering\source\repos\InterfacesInCSharp\ConsoleUI\obj\Debug\ConsoleUI.pdb

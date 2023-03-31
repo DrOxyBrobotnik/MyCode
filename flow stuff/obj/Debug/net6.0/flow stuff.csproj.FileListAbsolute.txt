@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\flow stuff\bin\Debug\net6.0\flow stuff.exe
+C:\Users\redigering\source\repos\flow stuff\bin\Debug\net6.0\flow stuff.deps.json
+C:\Users\redigering\source\repos\flow stuff\bin\Debug\net6.0\flow stuff.runtimeconfig.json
+C:\Users\redigering\source\repos\flow stuff\bin\Debug\net6.0\flow stuff.dll
+C:\Users\redigering\source\repos\flow stuff\bin\Debug\net6.0\flow stuff.pdb
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.AssemblyInfo.cs
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.dll
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\refint\flow stuff.dll
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.pdb
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\flow stuff.genruntimeconfig.cache
+C:\Users\redigering\source\repos\flow stuff\obj\Debug\net6.0\ref\flow stuff.dll

@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\Bob's giveaways\bin\Debug\net6.0\Bob's giveaways.exe
+C:\Users\Raxxy\source\repos\Bob's giveaways\bin\Debug\net6.0\Bob's giveaways.deps.json
+C:\Users\Raxxy\source\repos\Bob's giveaways\bin\Debug\net6.0\Bob's giveaways.runtimeconfig.json
+C:\Users\Raxxy\source\repos\Bob's giveaways\bin\Debug\net6.0\Bob's giveaways.dll
+C:\Users\Raxxy\source\repos\Bob's giveaways\bin\Debug\net6.0\Bob's giveaways.pdb
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.dll
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\refint\Bob's giveaways.dll
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.pdb
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\Bob's giveaways.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\Bob's giveaways\obj\Debug\net6.0\ref\Bob's giveaways.dll

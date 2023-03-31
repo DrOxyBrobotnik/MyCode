@@ -1,0 +1,5 @@
+﻿  HelloWorld.cpp
+C:\Users\Raxxy\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(8,20): error C2061: syntax error: identifier 'string'
+C:\Users\Raxxy\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(15,1): error C2059: syntax error: '}'
+C:\Users\Raxxy\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(15,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Raxxy\source\repos\HelloWorld\HelloWorld\HelloWorld.cpp(11,4): error C2143: syntax error: missing ';' before 'constant'

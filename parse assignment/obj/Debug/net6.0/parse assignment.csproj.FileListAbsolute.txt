@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\parse assignment\bin\Debug\net6.0\parse assignment.exe
+C:\Users\redigering\source\repos\parse assignment\bin\Debug\net6.0\parse assignment.deps.json
+C:\Users\redigering\source\repos\parse assignment\bin\Debug\net6.0\parse assignment.runtimeconfig.json
+C:\Users\redigering\source\repos\parse assignment\bin\Debug\net6.0\parse assignment.dll
+C:\Users\redigering\source\repos\parse assignment\bin\Debug\net6.0\parse assignment.pdb
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.AssemblyInfo.cs
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.dll
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\refint\parse assignment.dll
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.pdb
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\parse assignment.genruntimeconfig.cache
+C:\Users\redigering\source\repos\parse assignment\obj\Debug\net6.0\ref\parse assignment.dll

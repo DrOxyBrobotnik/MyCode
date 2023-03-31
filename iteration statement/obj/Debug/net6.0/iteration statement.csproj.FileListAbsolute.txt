@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\iteration statement\bin\Debug\net6.0\iteration statement.exe
+C:\Users\Raxxy\source\repos\iteration statement\bin\Debug\net6.0\iteration statement.deps.json
+C:\Users\Raxxy\source\repos\iteration statement\bin\Debug\net6.0\iteration statement.runtimeconfig.json
+C:\Users\Raxxy\source\repos\iteration statement\bin\Debug\net6.0\iteration statement.dll
+C:\Users\Raxxy\source\repos\iteration statement\bin\Debug\net6.0\iteration statement.pdb
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.dll
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\refint\iteration statement.dll
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.pdb
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\iteration statement.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\iteration statement\obj\Debug\net6.0\ref\iteration statement.dll

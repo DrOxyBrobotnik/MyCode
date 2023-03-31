@@ -1,0 +1,15 @@
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\bin\Debug\net6.0\OperatorsExpressionsStatements.exe
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\bin\Debug\net6.0\OperatorsExpressionsStatements.deps.json
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\bin\Debug\net6.0\OperatorsExpressionsStatements.runtimeconfig.json
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\bin\Debug\net6.0\OperatorsExpressionsStatements.dll
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\bin\Debug\net6.0\OperatorsExpressionsStatements.pdb
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.csproj.AssemblyReference.cache
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.AssemblyInfoInputs.cache
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.AssemblyInfo.cs
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.csproj.CoreCompileInputs.cache
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.dll
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\refint\OperatorsExpressionsStatements.dll
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.pdb
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\OperatorsExpressionsStatements.genruntimeconfig.cache
+C:\Users\Raxxy\source\repos\OperatorsExpressionsStatements\obj\Debug\net6.0\ref\OperatorsExpressionsStatements.dll

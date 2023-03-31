@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Understanding data types and variables/1.0.0": {
+        "runtime": {
+          "Understanding data types and variables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Understanding data types and variables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

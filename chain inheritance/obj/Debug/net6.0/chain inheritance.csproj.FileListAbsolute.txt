@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\chain inheritance\bin\Debug\net6.0\chain inheritance.exe
+C:\Users\redigering\source\repos\chain inheritance\bin\Debug\net6.0\chain inheritance.deps.json
+C:\Users\redigering\source\repos\chain inheritance\bin\Debug\net6.0\chain inheritance.runtimeconfig.json
+C:\Users\redigering\source\repos\chain inheritance\bin\Debug\net6.0\chain inheritance.dll
+C:\Users\redigering\source\repos\chain inheritance\bin\Debug\net6.0\chain inheritance.pdb
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.AssemblyInfo.cs
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.dll
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\refint\chain inheritance.dll
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.pdb
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\chain inheritance.genruntimeconfig.cache
+C:\Users\redigering\source\repos\chain inheritance\obj\Debug\net6.0\ref\chain inheritance.dll
